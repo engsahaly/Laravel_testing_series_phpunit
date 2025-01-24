@@ -1,0 +1,14 @@
+- Category Retrieval - categories page
+    Test that categories page opened successfully
+    Test that all categories can be retrieved successfully
+    Test pagination works as expected
+
+- Category Creation
+
+- Category Updating
+
+- Category Deleting
+
+- Category Validation
+
+- Category Permissions
