@@ -3,12 +3,33 @@
     Test that all categories can be retrieved successfully
     Test pagination works as expected
 
-- Category Creation
+- Category Creation & Validation
+    Test category create page rendered successfully
+    Test category can be created successfully
+    Test category name is required
+    test category name must be at least 3 characters long
+    test category name must be at most 255 characters long
+    test category description is optional
+    test category description must be at most 1000 characters long
 
-- Category Updating
+
+- Category Updating & Validation
+    Test category update page rendered successfully
+    Test category can be updated successfully
+    Test category name is required
+    test category name must be at least 3 characters long
+    test category name must be at most 255 characters long
+    test category description is optional
+    test category description must be at most 1000 characters long
 
 - Category Deleting
-
-- Category Validation
+    Test that a category can be deleted successfully and removed from the database.
 
 - Category Permissions
+    test guest cannot access categories page
+    test guest cannot access category creation page  
+    test guest cannot store a new category
+    test guest cannot access category edit page
+    test guest cannot access category show page
+    test guest cannot update a category
+    test guest cannot delete a category
