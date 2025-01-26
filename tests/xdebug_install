@@ -1,0 +1,5 @@
+// zend_extension="C:/php/ext/php_xdebug-3.4.1.dll" ; Adjust the path as needed
+// xdebug.mode=debug,coverage
+// xdebug.start_with_request=yes
+// xdebug.client_host=127.0.0.1
+// xdebug.client_port=9003
