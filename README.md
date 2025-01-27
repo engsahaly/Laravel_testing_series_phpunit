@@ -12,7 +12,7 @@ This is the main readme file for the code used in laravel testing using PHPUnit 
 To get started, clone this repository.
 
 ```
-git clone https://github.com/engsahaly/realtime_course.git
+git clone https://github.com/engsahaly/Laravel_testing_series_phpunit.git
 ```
 
 Next, copy your `.env.example` file as `.env` and configure your Database connection.
